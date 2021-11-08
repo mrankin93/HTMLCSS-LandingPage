@@ -235,7 +235,7 @@ section { display: flex; }
   position: relative;
 }
 
-.full-banner::before {
+.full-banner:before {
   content: "";
   position: absolute;
   border: 1px solid #ffffff;
