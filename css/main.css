@@ -127,8 +127,8 @@ section { display: flex; }
 .account {
   text-align: right;
   padding: 15px;
-  font-size: 18px;
   color: #364147;
+  font-size: 18px;
 }
 
 .profile-pic {
